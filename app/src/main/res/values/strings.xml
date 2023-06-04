@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AppAlumnos</string>
+    <string name="lbl_titulo">Programación Móvil I</string>
+    <string name="btn_saludar">Saludar</string>
+    <string name="edt_hint_nombre">Ingresa tu nombre</string>
 </resources>
