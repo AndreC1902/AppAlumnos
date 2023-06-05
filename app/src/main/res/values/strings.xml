@@ -5,4 +5,5 @@
     <string name="edt_hint_nombre">Ingresa tu nombre</string>
     <string name="mensaje_error_nombre">Favor ingresa el nombre a mostrar</string>
     <string name="mensaje_bienvenida">Bienvenido, %1$s!</string>
+    <string name="img_content_description">Una mano saludando</string>
 </resources>
