@@ -3,4 +3,6 @@
     <string name="lbl_titulo">Programación Móvil I</string>
     <string name="btn_saludar">Saludar</string>
     <string name="edt_hint_nombre">Ingresa tu nombre</string>
+    <string name="mensaje_error_nombre">Favor ingresa el nombre a mostrar</string>
+    <string name="mensaje_bienvenida">Bienvenido, %1$s!</string>
 </resources>
