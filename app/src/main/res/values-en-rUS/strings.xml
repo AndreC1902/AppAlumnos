@@ -2,9 +2,19 @@
 <resources>
     <string name="app_name">AppAlumnos</string>
     <string name="lbl_titulo">Mobile Programming I</string>
-    <string name="btn_saludar">Greet</string>
+    <string name="btn_guardar">Save</string>
     <string name="edt_hint_nombre">Enter your name</string>
     <string name="mensaje_error_nombre">Please enter the name to display</string>
     <string name="mensaje_bienvenida">Welcome, %1$s!</string>
     <string name="img_content_description">A waving hand</string>
+    <string name="title_activity_listado_datos">Students List</string>
+    <string name="lbl_nombre_alumno">Student Name</string>
+    <string name="lbl_numero_cuenta">Student Account Number</string>
+    <string name="lbl_correo_electronico">Student Email</string>
+    <string name="lbl_masculino">Male</string>
+    <string name="lbl_femenino">Female</string>
+    <string name="lbl_genero">Gender</string>
+    <string name="lbl_campus">Student Campus</string>
+    <string name="title_alumno_create">Create new Student</string>
+    <string name="title_alumno_view">View Student</string>
 </resources>
